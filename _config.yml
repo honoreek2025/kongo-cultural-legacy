@@ -1,0 +1,15 @@
+title: Kongo Cultural Legacy
+email: your-email@example.com
+description: >
+  Exploring and preserving the rich heritage of the Kingdom of Kongo.
+
+baseurl: "" # leave empty for root
+url: "https://honoreek2025.github.io/kongo-cultural-legacy" # replace with your actual URL
+
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+
+# Custom colors via CSS override
+sass:
+  style: compressed
